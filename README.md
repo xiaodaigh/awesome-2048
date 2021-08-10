@@ -11,6 +11,7 @@
 | https://cs.uwaterloo.ca/~mli/zalevine-dqn-2048.pdf | Got deep learning to play better than the author ; but still not super-human level play |
 | https://tjwei.github.io/2048-NN/ | Achieves 2048 at 94% probability with a 9 layer fully connect network. Seems like essentially a policy graident approach; seems fake, as the 9 layer neural network runs pretty fast on the internet. So not sure. |
 | [Reinforcement Learning For Constraint Satisfaction Game Agents (15-Puzzle, Minesweeper, 2048, and Sudoku)(https://arxiv.org/abs/2102.06019) | 40% to 2048 |
+| https://github.com/gorgitko/MI-MVI_2016 | |
 
 ## Research
 
