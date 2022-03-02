@@ -12,6 +12,7 @@
 | https://tjwei.github.io/2048-NN/ | Achieves 2048 at 94% probability with a 9 layer fully connect network. Seems like essentially a policy graident approach; seems fake, as the 9 layer neural network runs pretty fast on the internet. So not sure. |
 | [Reinforcement Learning For Constraint Satisfaction Game Agents (15-Puzzle, Minesweeper, 2048, and Sudoku)(https://arxiv.org/abs/2102.06019) | 40% to 2048 |
 | https://github.com/gorgitko/MI-MVI_2016 | another failed attempt. just used dense network; not even CNN |
+| [Awesome stackoverflow posts](https://stackoverflow.com/questions/22342854/what-is-the-optimal-algorithm-for-the-game-2048) | One post by Xiao is regarded as the best open source implementation |
 
 ## Research
 
